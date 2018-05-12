@@ -1,0 +1,27 @@
+_repo: Abraham-Lincoln_42526
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42526-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, William Eleroy
+    alias: Curtis, Wm. E. (William Eleroy)
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '3885'
+    url: http://www.gutenberg.org/2009/agents/3885
+description: ''
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+title: Abraham Lincoln
+url: http://www.gutenberg.org/ebooks/42526
